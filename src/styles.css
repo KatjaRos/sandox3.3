@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+}
+.center {
+  margin: auto;
+  padding: 60px;
+  width: 60%;
+}
+td {
+  padding: 6px;
+  border-bottom: 1px solid gray;
+}
+th {
+  background-color: #b7d0ff;
+  text-transform: bold;
+  padding: 12px 0px 12px 6px;
+  border-bottom: 2px solid gray;
+}
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 16px;
+  text-align: left;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
